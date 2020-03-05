@@ -1,3 +1,11 @@
+## My Music App
+
+Find your top song & artist via Spotify!
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
